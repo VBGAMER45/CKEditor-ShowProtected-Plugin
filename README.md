@@ -1,18 +1,18 @@
 CKEditor showprotected Plugin
 ==========================
 
-A plugin for CKEditor that makes protected source sections visible and editable.
-It'll show an icon in their place in the editor, which when double-clicked
-will bring up a dialog allowing them to be edited.
+A plugin for CKEditor that makes protected source sections visible and editable though a popup.
+This fork has a few changes:
+Meta areas hidden
+Popup is a textbox
+The source code is visible on main display not just an icon to click to edit
 
 ###Demo
-http://igx89.github.io/CKEditor-ShowProtected-Plugin/
 
-![Screenshot](http://igx89.github.io/CKEditor-ShowProtected-Plugin/screenshots/screenshot_1.png)
+![Screenshot](http://VBGAMER45.github.io/CKEditor-ShowProtected-Plugin/screen1.JPG)
 
-![Screenshot](http://igx89.github.io/CKEditor-ShowProtected-Plugin/screenshots/screenshot_2.png)
+![Screenshot](http://VBGAMER45.github.io/CKEditor-ShowProtected-Plugin/screen2.JPG)
 
-![Screenshot](http://igx89.github.io/CKEditor-ShowProtected-Plugin/screenshots/screenshot_3.png)
 
 ####License
 
