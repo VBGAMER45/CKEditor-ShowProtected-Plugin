@@ -9,9 +9,9 @@ The source code is visible on main display not just an icon to click to edit
 
 ###Demo
 
-![Screenshot](http://VBGAMER45.github.io/CKEditor-ShowProtected-Plugin/screen1.JPG)
+![Screenshot](https://raw.githubusercontent.com/VBGAMER45/CKEditor-ShowProtected-Plugin/refs/heads/master/screen1.JPG)
 
-![Screenshot](http://VBGAMER45.github.io/CKEditor-ShowProtected-Plugin/screen2.JPG)
+![Screenshot](https://raw.githubusercontent.com/VBGAMER45/CKEditor-ShowProtected-Plugin/refs/heads/master/screen2.JPG)
 
 
 ####License
